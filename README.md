@@ -26,5 +26,5 @@ In this file I have performed the following operations:-
 * handling unwanted or incorrect observations
 * working with outliers
    * using visualization tools such as boxplots,scatterplots to find outliers
-   * using statistical rules such as z score to find outliers
+   * using statistical rules such as z score to find outliers.
      
