@@ -26,5 +26,12 @@ In this file I have performed the following operations:-
 * handling unwanted or incorrect observations
 * working with outliers
    * using visualization tools such as boxplots,scatterplots to find outliers
-   * using statistical rules such as z score to find outliers.
+   * using statistical rules such as z score,IQR to find outliers.
+   * correcting outlier values with median or upper limit or lower limit of iqr
+* Bivariate analysis
+   * numerical vs numerical data representation using scatterplot,heatmap
+   * categorical vs numerical representation using violinplot,barplot
+   * categorical vs categorical using bar chart,point plot
+   * checking trends using temporal data
+ * pandas profiling
      
